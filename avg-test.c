@@ -3,8 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int avg( int x, int y )
-{
+int avg(int x, int y) {
   int sum = x + x;
   return sum / 2;
 }
